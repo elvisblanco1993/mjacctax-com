@@ -92,7 +92,7 @@
                     <li><i class="far fa-check-circle mr-2" style="color: var(--danger);"></i>Everything else you may need!<br></li>
                 </ul>
             </div>
-            <div class="col-md-6 d-none d-md-block"><img class="w-100 py-5" src="{{ asset('img/pexels-oleg-magni-2058134.jpg') }}"></div>
+            <div class="col-md-6 d-none d-md-block"><img class="w-100 py-5" src="{{ asset('img/payroll-vertical.jpg') }}"></div>
         </div>
     </div>
 </div>
