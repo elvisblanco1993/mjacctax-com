@@ -1,0 +1,218 @@
+div.jumbotron.carousel-hero {
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    margin-bottom: 0
+}
+
+h1.hero-title,
+h2.hero-title,
+h3.hero-title {
+    text-shadow: 0 3px 3px rgba(0, 0, 0, .4);
+    color: #fff
+}
+
+p.hero-subtitle {
+    max-width: 600px;
+    margin: 25px auto;
+    padding: 10px 15px;
+    color: #fff
+}
+
+.plat {
+    border-radius: 0
+}
+
+span {
+    font-style: inherit;
+    font-weight: inherit
+}
+
+.features-boxed {
+    color: #313437;
+    background-color: #eef4f7
+}
+
+.features-boxed p,
+.features-clean p {
+    color: #7d8285
+}
+
+.features-boxed h2,
+.features-clean h2 {
+    font-weight: 700;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: inherit
+}
+
+.features-boxed .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto
+}
+
+.features-boxed .intro p {
+    margin-bottom: 0
+}
+
+.features-boxed .features {
+    padding: 50px 0
+}
+
+.features-boxed .item {
+    text-align: center
+}
+
+.features-boxed .item .box {
+    text-align: center;
+    padding: 30px;
+    background-color: #fff;
+    margin-bottom: 30px
+}
+
+.features-boxed .item .icon {
+    font-size: 60px;
+    color: #1485ee;
+    margin-top: 20px;
+    margin-bottom: 35px
+}
+
+.features-boxed .item .name {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 0;
+    color: inherit
+}
+
+.features-boxed .item .description {
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px
+}
+
+.features-clean {
+    color: #313437;
+    background-color: #fff;
+    padding-bottom: 30px
+}
+
+.features-clean .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto 60px
+}
+
+.features-clean .item {
+    min-height: 100px;
+    padding-left: 80px;
+    margin-bottom: 40px
+}
+
+@media (max-width:767px) {
+
+    .features-boxed h2,
+    .features-clean h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px
+    }
+
+    .features-clean {
+        padding-bottom: 10px
+    }
+
+    .features-clean .intro {
+        margin-bottom: 40px
+    }
+
+    .features-clean .item {
+        min-height: 0
+    }
+}
+
+.features-clean .item .name {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: inherit
+}
+
+.features-clean .item .description {
+    font-size: 15px;
+    margin-bottom: 0
+}
+
+.features-clean .item .icon {
+    font-size: 40px;
+    color: #1485ee;
+    float: left;
+    margin-left: -65px
+}
+
+.jumbotron {
+    padding: 10% 0
+}
+
+.about-tab-btn {
+    border: 1px solid rgba(34, 123, 255, .17);
+    border-radius: .6rem
+}
+
+.about-tab-content {
+    border: 1px solid #d5e9ff;
+    padding: 2%;
+    border-radius: 4px;
+    background: #fafcff
+}
+
+#services {
+    margin-top: 2%
+}
+
+#request-quote-banner {
+    background-image: url(/img/pexels-oleg-magni-2058130.jpg)
+}
+
+#request-quote-container {
+    background-color: rgba(36, 71, 166, .85)
+}
+
+#footer {
+    background-color: #000
+}
+
+.footer-text {
+    color: rgba(255, 255, 255, .6)
+}
+
+.footer-text>i {
+    color: #fff
+}
+
+.icon-background {
+    color: rgba(36, 71, 166, .85)
+}
+
+.social-icon i {
+    font-size: 1.6rem;
+    display: inline-block;
+    color: #f4f4f4;
+    margin: 0 10px;
+    width: 3rem;
+    height: 3rem;
+    background: #245bb6;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 3rem
+}
+
+.call-btn {
+    background-color: #ee413b;
+    color: #fff !important
+}
