@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="jumbotron hero-technology carousel-hero" style="background: url({{ asset('img/payroll.jpg') }}) top / cover no-repeat;height: 80vh;">
+                <div class="jumbotron hero-technology carousel-hero" style="background: url({{ asset('img/payroll.jpeg') }}) top / cover no-repeat;height: 80vh;">
                     <h1 class="hero-title">PAYROLL SERVICES</h1>
                     <p class="hero-subtitle" style="font-family: Quicksand, sans-serif;font-size: 1.2rem;font-weight: 500;text-shadow: 1px 1px var(--dark);">Your business depends on the work your employees do. Keeping them satisfied with their compensation while maintaining your records up to date, enables your long-term success.</p>
                     <p>
