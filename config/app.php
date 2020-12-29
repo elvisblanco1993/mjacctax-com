@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'MJ Accounting & Taxes Services LLC'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://mjacctax.com'),
 
     'asset_url' => env('ASSET_URL', null),
 
@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        \Davmixcool\MetaManager\MetaServiceProvider::class,
 
         /*
          * Application Service Providers...

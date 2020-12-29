@@ -36,7 +36,7 @@
                 We are here to help!
             </h2>
             <p style="font-size: 1.2rem">
-                We know we can fit your needs, so please fill out this form, and someone from our team will contact you shortly.
+                At MJ, our clients are our top priority. Please fill out this form, and someone from our team will contact you shortly.
             </p>
             <p style="font-size: 1.2rem">
                 Otherwise, you can use one of the following to get in touch with us:
@@ -49,7 +49,7 @@
                 </li>
                 <li class="mt-2">
                     <i class="fa fa-fax mr-2" style="color: var(--dark);"></i>
-                    <a class="text-dark" href="fax:13056907132">+1 (305) 690-7132</a>
+                    <a class="text-dark" href="fax:13056753971">+1 (305) 675-3971</a>
                 </li>
                 <li class="mt-2">
                     <i class="fa fa-envelope mr-2" style="color: var(--dark);"></i>

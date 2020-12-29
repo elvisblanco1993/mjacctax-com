@@ -61,7 +61,7 @@
                     <p class="footer-text">
                         <i class="fas fa-phone-alt mr-4" style="color: rgb(169,171,174);"></i>+1 (305) 690-3172</p>
                     <p class="footer-text">
-                        <i class="fas fa-fax mr-4" style="color: rgb(169,171,174);"></i>+1 123 456 7890</p>
+                        <i class="fas fa-fax mr-4" style="color: rgb(169,171,174);"></i>+1 (305) 675-3971</p>
                     <p class="footer-text">
                         <i class="fas fa-envelope mr-4" style="color: rgb(169,171,174);"></i>
                         <a href="mailto:info@mjacctax.com?subject=FromWebsite" class="footer-text">info@mjacctax.com</a>

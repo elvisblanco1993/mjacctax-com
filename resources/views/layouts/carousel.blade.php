@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="jumbotron hero-photography carousel-hero" style="background: url({{ asset('img/kelly-sikkema-wgcUx0kR1ps-unsplash.jpg') }}) center / cover no-repeat;height: 80vh;">
+                <div class="jumbotron hero-photography carousel-hero" style="background: url({{ asset('img/taxes.webp') }}) center / cover no-repeat;height: 80vh;">
                     <h1 class="hero-title">TAXES SERVICES</h1>
                     <p class="hero-subtitle" style="font-family: Quicksand, sans-serif;font-size: 1.2rem;font-weight: 500;text-shadow: 1px 1px var(--dark);">When you prepare your own taxes, you may be missing out on deductions; paying a professional to handle your taxes saves you money. We have the experienced tax professionals to do your tax preparation.</p>
                     <p><a class="btn btn-danger btn-lg" role="button" href="#" style="font-family: Raleway, sans-serif;">Learn more</a></p>
