@@ -37,8 +37,8 @@
                         <p>
                             <strong>{{ __('Phone') }} </strong>: <a href="tel:{{ $phone }}">{{ $phone }}</a>
                         </p>
-                        <p>
-                            <strong>{{ __('Subject') }}</strong>: {{ $subject }}
+                        <p class="text-capitalize">
+                            <strong>{{ __('Inquiring about') }}</strong>: {{ str_replace("-", " ", $subject) }}
                         </p>
                         <p>
                             <strong>{{ __('Date') }}</strong>: {{ date('M d, Y H:i a', strtotime($date)) }}
