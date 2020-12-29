@@ -12,7 +12,7 @@ Please find below the primary contact information:<br>
 
 For additional information about this inquiry, please visit your website.
 
-@component('mail::button', ['url' => 'https://google.com'])
+@component('mail::button', ['url' => config('app.url')])
     View details
 @endcomponent
 
