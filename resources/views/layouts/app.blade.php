@@ -6,7 +6,7 @@
     @include('meta::manager')
 
     {{-- Fav Icon --}}
-    <link rel="{{ config('app.name', 'Laravel') }}" href="{{ asset('img/logo.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('img/logo.png') }}" type="image/png">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
