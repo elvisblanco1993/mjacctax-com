@@ -36,6 +36,7 @@ class MessageController extends Controller
         return view('app.messages.show', [
             'name' => $message->name,
             'email' => $message->email,
+            'phone' => $message->phone,
             'subject' => $message->subject,
             'message' => $message->message,
             'date' => $message->created_at,

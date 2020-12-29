@@ -35,6 +35,9 @@
                             <strong>{{ __('From') }} </strong>: <a href="mailto:{{ $email }}">{{ $name }}</a>
                         </p>
                         <p>
+                            <strong>{{ __('Phone') }} </strong>: <a href="tel:{{ $phone }}">{{ $phone }}</a>
+                        </p>
+                        <p>
                             <strong>{{ __('Subject') }}</strong>: {{ $subject }}
                         </p>
                         <p>
